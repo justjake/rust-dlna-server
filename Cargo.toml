@@ -1,0 +1,6 @@
+[package]
+name = "rust-dlna-server"
+version = "0.1.0"
+authors = ["Jake Teton-Landis <jake.tl@airbnb.com>"]
+
+[dependencies]
